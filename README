@@ -1,0 +1,17 @@
+This is a demonstration for the usage of https://github.com/tfrancoi/odoo_csv_import and https://github.com/tfrancoi/easier_import
+
+Installation
+============
+1) Create an odoo 11 database named "load" with sale_management, import_metadata, import_res_id and purchase installed
+2) Create users with name and login Thibault and Francois
+3) activate the following lang French (BE) / Français (BE), English, Dutch / Nederlands
+
+Your are good to go
+
+Test
+====
+ 
+sh transform.sh
+sh load.sh
+
+You've all your data into your database

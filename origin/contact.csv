@@ -1,0 +1,100 @@
+Client Name;Phone;address1;city;zip code;country;Language;Image;Tag;Fidelity Grade;Create ON;Create BY
+Emily Mcginnis;(160) 830-8002;Rue de la poste;Brussel;14589;Belgique;English;employee_al-image.jpg;Categ1,Categ2;Bronze;10/01/16;Thibault
+Franklin Johnston;(575) 187-6884;Downing Street;Paris;14590;FR;English;employee_chs-image.jpg;Categ3,Categ4;;11/01/16;Francois
+Norman Bingham;(726) 729-2798;La prèle, 3;New york;14591;U.S;English;employee_djj-image.png;Categ4,Categ5;Silver;12/01/16;Francois
+Lynn Greene;(305) 173-0590;Glass AV;Amsterdam;14592;U.S;English;employee_dzc-image.jpg;;;13/01/16;Francois
+Elnora Anderson;(665) 406-0059;Home sweet Home;Mechelen;14593;BE;English;employee_fme-image.jpg;;;14/01/16;Francois
+James Ancira;(752) 749-3878;PO Box 13821;Lyon;14594;FR;Dutch;employee_fpi-image.jpg;Categ5,Categ6;;15/01/16;Thibault
+Jeffrey Cavanaugh;(570) 648-5930;Marnixstraat 21;SF;14595;U.S;English;employee_fp-image.jpg;;;16/01/16;Thibault
+Jan Walters;(877) 119-2211;Eggelaan 23;Delft;14596;NL;English;employee_han-image.png;;Gold;17/01/16;Thibault
+Woodrow Gagnon;(576) 293-0020;J en M Sabbestraat 11;Marche-en-famenne;14597;Belgique;English;employee_hne-image.png;;;18/01/16;Francois
+Maria Hagge;(313) 942-3148;Rue de la Fusée 96;Namur;14598;Belgique;English;employee-image.png;Categ1,Categ5;;19/01/16;Francois
+Dina Stewart;(445) 232-1679;Rue de la poste;Brussel;14599;Belgique;French;employee_jep-image.jpg;;;20/01/16;Thibault
+Albert Dreesman;(491) 133-3228;Downing Street;Paris;14600;FR;English;employee_jgo-image.jpg;;Silver;21/01/16;Thibault
+Corey Katon;(358) 213-3925;La prèle, 3;New york;14601;U.S;English;employee_jod-image.png;Categ1,Categ2;;22/01/16;Thibault
+Alan Odea;(790) 769-6448;Glass AV;Amsterdam;14602;U.S;English;employee_jog-image.jpg;Categ3,Categ4;;23/01/16;Thibault
+Henry Brown;(970) 804-9539;Home sweet Home;Mechelen;14603;BE;English;employee_jth-image.png;Categ4,Categ5;;24/01/16;Thibault
+Andrew Eby;(249) 262-6890;PO Box 13821;Lyon;14604;FR;English;employee_jve-image.jpg;;;25/01/16;Francois
+Steven Haas;(229) 487-9417;Marnixstraat 21;SF;14605;U.S;Dutch;employee_lur-image.png;;;26/01/16;Francois
+James Thompson;(322) 824-1669;Eggelaan 23;Delft;14606;NL;English;employee_mit-image.png;Categ5,Categ6;Bronze;27/01/16;Francois
+Mark Bennett;(738) 138-0389;J en M Sabbestraat 11;Marche-en-famenne;14607;Belgique;English;employee_mit-image.png;;;28/01/16;Francois
+Christine Ball;(365) 292-6373;Rue de la Fusée 96;Namur;14608;Belgique;English;employee_niv-image.jpg;;;29/01/16;Thibault
+Kyle Day;(273) 867-0471;Rue de la poste;Brussel;14609;Belgique;English;employee_al-image.jpg;;;30/01/16;Thibault
+Nanette Pollard;(660) 496-2491;Downing Street;Paris;14610;FR;English;employee_chs-image.jpg;Categ1,Categ5;Bronze;31/01/16;Thibault
+Eva Kirkland;(347) 636-3810;La prèle, 3;New york;14611;U.S;English;employee_djj-image.png;;;01/02/16;Francois
+Brian Mcintyre;(811) 310-0652;Glass AV;Amsterdam;14612;U.S;English;employee_dzc-image.jpg;;;02/02/16;Francois
+Laura Mercuri;(122) 655-3893;Home sweet Home;Mechelen;14613;BE;English;employee_fme-image.jpg;Categ1,Categ2;;03/02/16;Thibault
+Nathan Vanduzer;(236) 963-6261;PO Box 13821;Lyon;14614;FR;Dutch;employee_fpi-image.jpg;Categ3,Categ4;;04/02/16;Thibault
+Alta Shelton;(619) 740-5546;Marnixstraat 21;SF;14615;U.S;English;employee_fp-image.jpg;Categ4,Categ5;Bronze;05/02/16;Thibault
+Peter Woods;(826) 391-9937;Eggelaan 23;Delft;14616;NL;English;employee_han-image.png;;;06/02/16;Francois
+Whitney Tower;(105) 314-5269;J en M Sabbestraat 11;Marche-en-famenne;14617;Belgique;English;employee_hne-image.png;;;07/02/16;Francois
+David Madsen;(992) 527-7800;Rue de la Fusée 96;Namur;14618;Belgique;English;employee-image.png;Categ5,Categ6;;08/02/16;Francois
+Betty Jenkins;(485) 440-3714;Rue de la poste;Brussel;14619;Belgique;French;employee_jep-image.jpg;;;09/02/16;Francois
+James Coffman;(612) 386-3398;Downing Street;Paris;14620;FR;English;employee_jgo-image.jpg;;Bronze;10/02/16;Thibault
+Arthur Granger;(678) 403-6800;La prèle, 3;New york;14621;U.S;English;employee_jod-image.png;;;11/02/16;Thibault
+Thomas Sawyer;(447) 510-4091;Glass AV;Amsterdam;14622;U.S;English;employee_jog-image.jpg;Categ1,Categ5;;12/02/16;Thibault
+Keely Barshaw;(608) 747-5978;Home sweet Home;Mechelen;14623;BE;English;employee_jth-image.png;;;13/02/16;Francois
+Henry Watson;(487) 674-6271;PO Box 13821;Lyon;14624;FR;English;employee_jve-image.jpg;;Silver;14/02/16;Francois
+Ella Garfield;(840) 940-2608;Marnixstraat 21;SF;14625;U.S;Dutch;employee_lur-image.png;;;15/02/16;Thibault
+Thomas Caldwell;(199) 474-4795;Eggelaan 23;Delft;14626;NL;English;employee_mit-image.png;;Bronze;16/02/16;Thibault
+James Gomez;(337) 749-7397;J en M Sabbestraat 11;Marche-en-famenne;14627;Belgique;English;employee_mit-image.png;;;17/02/16;Thibault
+Thomas Barge;(574) 330-7097;Rue de la Fusée 96;Namur;14628;Belgique;English;employee_niv-image.jpg;Categ1,Categ2;Silver;18/02/16;Thibault
+Betty Colangelo;(372) 339-9775;Rue de la poste;Brussel;14629;Belgique;English;employee_al-image.jpg;Categ3,Categ4;;19/02/16;Thibault
+David Reed;(869) 412-3489;Downing Street;Paris;14630;FR;English;employee_chs-image.jpg;Categ4,Categ5;;20/02/16;Thibault
+Aaron Ellingson;(712) 498-1413;La prèle, 3;New york;14631;U.S;English;employee_djj-image.png;;;21/02/16;Francois
+Reggie Cornell;(284) 860-2681;Glass AV;Amsterdam;14632;U.S;English;employee_dzc-image.jpg;;;22/02/16;Francois
+Napoleon Banker;(211) 125-3888;Home sweet Home;Mechelen;14633;BE;English;employee_fme-image.jpg;Categ5,Categ6;Gold;23/02/16;Francois
+Amy Morales;(816) 113-4796;PO Box 13821;Lyon;14634;FR;Dutch;employee_fpi-image.jpg;;;24/02/16;Francois
+Shawn Moscato;(841) 237-7185;Marnixstraat 21;SF;14635;U.S;English;employee_fp-image.jpg;;;25/02/16;Thibault
+Wayne Stewart;(231) 211-7459;Eggelaan 23;Delft;14636;NL;English;employee_han-image.png;;;26/02/16;Thibault
+Blanche Diaz;(293) 428-2206;J en M Sabbestraat 11;Marche-en-famenne;14637;Belgique;English;employee_hne-image.png;Categ1,Categ5;Silver;27/02/16;Thibault
+Jerry Bryant;(223) 650-0081;Rue de la Fusée 96;Namur;14638;Belgique;English;employee-image.png;;;28/02/16;Thibault
+Mary Prendergast;(696) 619-1848;Rue de la poste;Brussel;14639;Belgique;French;employee_jep-image.jpg;;;29/02/16;Francois
+Kristen Preston;(717) 293-3538;Downing Street;Paris;14640;FR;English;employee_jgo-image.jpg;;;01/03/16;Francois
+James Riojas;(102) 484-8925;La prèle, 3;New york;14641;U.S;English;employee_jod-image.png;;;02/03/16;Francois
+Jesus Dincher;(939) 844-6244;Glass AV;Amsterdam;14642;U.S;English;employee_jog-image.jpg;;;03/03/16;Francois
+Susan Fuller;(224) 243-1024;Home sweet Home;Mechelen;14643;BE;English;employee_jth-image.png;;Bronze;04/03/16;Thibault
+James Pate;(895) 892-9698;PO Box 13821;Lyon;14644;FR;English;employee_jve-image.jpg;;;05/03/16;Thibault
+Dana Rathbum;(769) 490-2254;Marnixstraat 21;SF;14645;U.S;Dutch;employee_lur-image.png;;;06/03/16;Thibault
+Jacqueline Furbush;(326) 789-5558;Eggelaan 23;Delft;14646;NL;English;employee_mit-image.png;;;07/03/16;Francois
+Irene Bell;(146) 382-7716;J en M Sabbestraat 11;Marche-en-famenne;14647;Belgique;English;employee_mit-image.png;Categ1,Categ2;Bronze;08/03/16;Francois
+Mary Wilson;(811) 641-5392;Rue de la Fusée 96;Namur;14648;Belgique;English;employee_niv-image.jpg;Categ3,Categ4;;09/03/16;Thibault
+Lora Allison;(268) 315-3247;Rue de la poste;Brussel;14649;Belgique;English;employee_al-image.jpg;Categ4,Categ5;;10/03/16;Francois
+Jessica Howard;(238) 138-2728;Downing Street;Paris;14650;FR;English;employee_chs-image.jpg;;;11/03/16;Francois
+Kathy Garrett;(508) 501-5584;La prèle, 3;New york;14651;U.S;English;employee_djj-image.png;;;12/03/16;Francois
+Priscilla Smith;(976) 777-2319;Glass AV;Amsterdam;14652;U.S;English;employee_dzc-image.jpg;Categ5,Categ6;Bronze;13/03/16;Francois
+Patricia Moy;(132) 445-5809;Home sweet Home;Mechelen;14653;BE;English;employee_fme-image.jpg;;;14/03/16;Thibault
+Daniel Hudson;(572) 659-5462;PO Box 13821;Lyon;14654;FR;Dutch;employee_fpi-image.jpg;;;15/03/16;Thibault
+Richard Powell;(130) 793-9339;Marnixstraat 21;SF;14655;U.S;English;employee_fp-image.jpg;;;16/03/16;Thibault
+Etta Taylor;(150) 636-9787;Eggelaan 23;Delft;14656;NL;English;employee_han-image.png;Categ1,Categ5;;17/03/16;Francois
+Tom Riley;(844) 173-6349;J en M Sabbestraat 11;Marche-en-famenne;14657;Belgique;English;employee_hne-image.png;;Bronze;18/03/16;Francois
+Arlene Boyd;(820) 672-9455;Rue de la Fusée 96;Namur;14658;Belgique;English;employee-image.png;;Bronze;19/03/16;Thibault
+Gerald Zuniga;(254) 419-9673;Rue de la poste;Brussel;14659;Belgique;French;employee_jep-image.jpg;;;20/03/16;Thibault
+Vivian James;(741) 322-0528;Downing Street;Paris;14660;FR;English;employee_jgo-image.jpg;;Silver;21/03/16;Francois
+Manuela Nelson;(400) 574-2888;La prèle, 3;New york;14661;U.S;English;employee_jod-image.png;;;22/03/16;Francois
+Patsy Smith;(441) 152-1916;Glass AV;Amsterdam;14662;U.S;English;employee_jog-image.jpg;;;23/03/16;Francois
+Helen Spitzer;(267) 479-9767;Home sweet Home;Mechelen;14663;BE;English;employee_jth-image.png;Categ1,Categ2;;24/03/16;Francois
+Mark Quintero;(731) 281-4198;PO Box 13821;Lyon;14664;FR;English;employee_jve-image.jpg;Categ3,Categ4;;25/03/16;Thibault
+Barbara Stone;(470) 810-8727;Marnixstraat 21;SF;14665;U.S;Dutch;employee_lur-image.png;Categ4,Categ5;Gold;26/03/16;Thibault
+Jonathan Mcmahon;(674) 384-9415;Eggelaan 23;Delft;14666;NL;English;employee_mit-image.png;;;27/03/16;Thibault
+Brenda Velazquez;(961) 376-5348;J en M Sabbestraat 11;Marche-en-famenne;14667;Belgique;English;employee_mit-image.png;;;28/03/16;Francois
+June Washington;(111) 386-6404;Rue de la Fusée 96;Namur;14668;Belgique;English;employee_niv-image.jpg;Categ5,Categ6;;29/03/16;Francois
+Efrain Kerns;(862) 235-4861;Rue de la poste;Brussel;14669;Belgique;English;employee_al-image.jpg;;Silver;30/03/16;Thibault
+Tammy Burrell;(771) 557-3125;Downing Street;Paris;14670;FR;English;employee_chs-image.jpg;;;31/03/16;Thibault
+Alicia Anderson;(557) 319-4151;La prèle, 3;New york;14671;U.S;English;employee_djj-image.png;;;01/04/16;Thibault
+Cheryl Martirano;(368) 752-2010;Glass AV;Amsterdam;14672;U.S;English;employee_dzc-image.jpg;Categ1,Categ5;;02/04/16;Francois
+Gerald Rivera;(590) 727-2550;Home sweet Home;Mechelen;14673;BE;English;employee_fme-image.jpg;;;03/04/16;Francois
+Brian Jones;(512) 795-6624;PO Box 13821;Lyon;14674;FR;Dutch;employee_fpi-image.jpg;;;04/04/16;Francois
+Anna Mcguire;(236) 479-5245;Marnixstraat 21;SF;14675;U.S;English;employee_fp-image.jpg;;Bronze;05/04/16;Francois
+Carolyn Joosten;(666) 524-5467;Eggelaan 23;Delft;14676;NL;English;employee_han-image.png;Categ1,Categ2;;06/04/16;Thibault
+Audrey Warren;(722) 903-5243;J en M Sabbestraat 11;Marche-en-famenne;14677;Belgique;English;employee_hne-image.png;Categ3,Categ4;;07/04/16;Thibault
+Robert Hollins;(912) 992-7947;Rue de la Fusée 96;Namur;14678;Belgique;English;employee-image.png;Categ4,Categ5;;08/04/16;Thibault
+Malia Maki;(858) 590-6447;Rue de la poste;Brussel;14679;Belgique;French;employee_jep-image.jpg;;Bronze;09/04/16;Francois
+David Saunders;(213) 229-1084;Downing Street;Paris;14680;FR;English;employee_jgo-image.jpg;;;10/04/16;Francois
+Gena Popp;(919) 581-7824;La prèle, 3;New york;14681;U.S;English;employee_jod-image.png;Categ5,Categ6;;11/04/16;Thibault
+Leo Rezac;(349) 318-9036;Glass AV;Amsterdam;14682;U.S;English;employee_jog-image.jpg;;;12/04/16;Thibault
+Nathan Love;(913) 785-3527;Home sweet Home;Mechelen;14683;BE;English;employee_jth-image.png;;;13/04/16;Thibault
+Denice Boyd;(776) 498-0085;PO Box 13821;Lyon;14684;FR;English;employee_jve-image.jpg;;Bronze;14/04/16;Thibault
+Katherine Ewing;(590) 986-1342;Marnixstraat 21;SF;14685;U.S;Dutch;employee_lur-image.png;Categ1,Categ5;;15/04/16;Thibault
+Dorothy Barnfield;(358) 819-0020;Eggelaan 23;Delft;14686;NL;English;employee_mit-image.png;;;16/04/16;Thibault
+Ronald Kassler;(603) 747-4202;J en M Sabbestraat 11;Marche-en-famenne;14687;Belgique;English;employee_mit-image.png;;;17/04/16;Francois

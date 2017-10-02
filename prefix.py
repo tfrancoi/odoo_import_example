@@ -1,0 +1,37 @@
+# -*- coding: utf-8 -*-
+CLIENT_PREFIX = "TEST_CLIENT"
+PARTNER_CATEGORY_PREFIX = "TEST_PARTNER_CATEGORY"
+
+SUPPLIER_PREFIX = "TEST_SUPPLIER"
+SUPPLIER_CONTACT_PREFIX = "TEST_SUPPLIER_CONTACT"
+PARTNER_CATEGORY_PREFIX = "TEST_PARTNER_CATEGORY"
+TITLE_PREFIX = "TEST_TITLE"
+
+MESSAGE_PREFIX = "TEST_MESSAGE"
+
+SUPPLIER_INFO_PREFIX = "TEST_SUPPLIER_INFO"
+TEMPLATE_PREFIX = "PRODUCT_TEMPLATE"
+PRODUCT_PREFIX = "PRODUCT_PRODUCT"
+CATEGORY_PREFIX = "PRODUCT_CATEGORY"
+
+ATTRIBUTE_PREFIX = "PRODUCT_ATTRIBUTE"
+ATTRIBUTE_VALUE_PREFIX = "PRODUCT_ATTRIBUTE_VALUE"
+ATTRIBUTE_LINE_PREFIX = "PRODUCT_ATTRIBUTE_LINE"
+
+
+country_map = {
+    'Belgique' : 'base.be',
+    'BE' : 'base.be',
+    'FR' : 'base.fr',
+    'U.S' : 'base.us',
+    'US' : 'base.us',
+    'NL' : 'base.nl',
+}
+
+
+lang_map = {
+    '' : '',
+    'French' : u'French (BE) / Français (BE)',
+    'English' : u'English',
+    'Dutch' : u'Dutch / Nederlands',
+}
